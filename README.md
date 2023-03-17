@@ -1,4 +1,4 @@
-![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-Mystic&show_icons=true&theme=codeSTACKr)
+![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-Mystic&show_icons=true&theme=codeSTACKr&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-Mystic&layout=compact&theme=codeSTACKr)](https://github.com/sudo-Mystic/github-readme-stats)
 
 <!--
