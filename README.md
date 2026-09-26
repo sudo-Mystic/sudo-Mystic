@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rishabh+Bohra;I+ship+software+and+break+it+for+fun;Hardware+hacker+%7C+App+builder+%7C+Pentester)](https://git.io/typing-svg)
+![Rishabh Bohra](./banner.svg)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sudo-Mystic&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&bg_color=0d1117" alt="stats" />
@@ -31,10 +31,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sudo-Mystic&theme=dark&hide_border=true&background=0d1117" alt="streak" />
-</p>
 
 ---
 
