@@ -1,8 +1,12 @@
 ![Rishabh Bohra](./banner.svg)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudo-Mystic&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&bg_color=0d1117" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-Mystic&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="langs" />
+  <img src="https://komarev.com/ghpvc/?username=sudo-Mystic&label=Profile+views&color=00ff88&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub stats" />
+  <img src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 ## What I'm building
@@ -14,6 +18,18 @@
 [repo](https://github.com/sudo-Mystic/detroit-jev)
 
 **Android security research** - static and dynamic teardown of popular Indian consumer apps. Real findings, disclosed through proper channels. Assume breach, verify everything.
+
+## Trophy case
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sudo-Mystic&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
+</p>
+
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudo-Mystic&theme=github-dark&hide_border=true&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff" alt="activity graph" />
+</p>
 
 ## Elsewhere
 
